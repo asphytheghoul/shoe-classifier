@@ -5,5 +5,5 @@ Sample output:
 
 Loss function graph:
 
-Original Author: [Akash Kamalesh](https://github.com/asphytheghoul)
+Original Author: [Akash Kamalesh](https://github.com/asphytheghoul) <br/>
 feel free to reach out to me on instagram: @akash.x23
