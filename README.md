@@ -6,4 +6,4 @@ Sample output:
 Loss function graph:
 
 Original Author: [Akash Kamalesh](https://github.com/asphytheghoul) <br/>
-feel free to reach out to me on instagram: @akash.x23
+feel free to reach out to me on instagram: [@akash.x23](https://www.instagram.com/akash.x23/)
