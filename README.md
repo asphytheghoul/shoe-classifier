@@ -1,9 +1,11 @@
 # shoe-classifier
 This is a simple shoe classification model which currently works for adidas and nike shoes. to run the program, download and install the requirements from the `requirements.txt` file 
 
-Sample output:
+Sample output: <br/>
+<img src="https://user-images.githubusercontent.com/91832216/194708372-67d3b541-74c0-447a-a0b6-efe399b5c787.png">
 
-Loss function graph:
+Loss function graph: <br/>
+<img src="https://user-images.githubusercontent.com/91832216/194708324-8f3970d2-259a-44fa-828c-dffd54cb62c0.png" width="250" height="250">
 
 [dataset used](https://www.kaggle.com/datasets/ifeanyinneji/nike-adidas-shoes-for-image-classification-dataset)
 
