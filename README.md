@@ -1,4 +1,5 @@
 # shoe-classifier
+<img src="https://socialify.git.ci/asphytheghoul/shoe-classifier/image?font=Rokkitt&language=1&name=1&owner=1&stargazers=1&theme=Dark" alt="shoe-classifier" width="640" height="320" />
 This is a simple shoe classification model which currently works for adidas and nike shoes. to run the program, download and install the requirements from the `requirements.txt` file 
 
 Sample output: <br/>
